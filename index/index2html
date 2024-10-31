@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    title>electron darslik</title>
+    <link rel="stylesheet" href="css/style.css">
+        
+</head>
+<body>
+    <div>
+        <h1>Sahifa</h1>
+    </div>
+    <div class="blok2"><a href="#">
+        <button tyupe="submit" class="btn2">asosiy</button>
+</body>
+</html>
